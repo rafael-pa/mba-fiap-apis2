@@ -1,4 +1,4 @@
-# mba-fiap-apis
+# mba-fiap-apis2
 Projeto final para a disciplina de desenvolvimento de Microsserviços e APIs
 
 [Postman Collection para testes](https://github.com/rafael-pa/mba-fiap-apis2/blob/main/Projeto%20final%20-%20parte%202.postman_collection.json)
