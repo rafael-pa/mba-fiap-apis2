@@ -1,9 +1,8 @@
-# mba-fiap-apis2
+# Parte 2 - Cadastro de Informações Financeiras
 Projeto final para a disciplina de desenvolvimento de Microsserviços e APIs
 
 [Postman Collection para testes](https://github.com/rafael-pa/mba-fiap-apis2/blob/main/Projeto%20final%20-%20parte%202.postman_collection.json)
 
-## Parte 2 - Cadastro de Informações Financeiras
 ### Para acesso a estes endpoints é necessário o token gerado no login da [api usuarios](https://github.com/rafael-pa/mba-fiap-apis) no header da requisição ("token")
 
 
